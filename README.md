@@ -11,7 +11,7 @@
             </p>
 
 
-            <h2>一、换源</h2>
+           <h1>换源</h1>
 bash <(curl -sSL https://gitee.com/SuperManito/LinuxMirrors/raw/main/ChangeMirrors.sh)
             <h2>二、添加虚拟内存</h2>
             yum -y install wget && wget -O set_swap.sh --no-check-certificate https://soft.mengclaw.com/Bash/set_swap.sh && bash set_swap.sh
