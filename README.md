@@ -1,14 +1,14 @@
  <h1>CdnFly5.2.1主控+5.1.18节点安装教程</h1>
-			<p class="description">
+			
               由于之前公开，导致大家滥用，甚至拿去卖，现在有偿授权，一个主控10元。
-            </p>
-            <p class="description">
-                本系统主控 IP 需要自助添加白名单：<a href="https://api.5205230.xyz" target="_blank">前往添加白名单。</a></n>
+           
+            
+                本系统主控 IP 需要自助添加白名单：<a href="https://api.5205230.xyz" target="_blank">前往添加白名单。</a>
               账号密码都要自己注册
-             </p>
-          <p class="description">
+         
+         
               有任何问题可以联系飞机：<a href="https://t.me/mikeuse" target="_blank">@mikeuse</a>
-            </p>
+          
 
 
            <h1>换源</h1>
