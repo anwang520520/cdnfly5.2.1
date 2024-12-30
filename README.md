@@ -21,7 +21,6 @@ yum -y install wget && wget -O set_swap.sh --no-check-certificate https://soft.m
 安装完管理账号：admin，密码：admin。测试账号：ceshi，密码：123456！
 
 
-https://raw.githubusercontent.com/anwang520520/cdnfly5.2.1/master/master.sh
 
 ```
 curl -fsSL https://raw.githubusercontent.com/anwang520520/cdnfly5.2.1/master/master.sh -o master.sh && chmod +x master.sh && ./master.sh --es-dir /home/es
